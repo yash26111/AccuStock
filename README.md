@@ -1,7 +1,7 @@
 
-# Plyman 📦
+# AccuStock 📦
 
-**Plyman** is a lightweight, responsive **Inventory Management System** designed to help users efficiently track, manage, and update product inventories in real-time.
+**AccuStock** is a lightweight, responsive **Inventory Management System** designed to help users efficiently track, manage, and update product inventories in real-time.
 
 🌐 [Live Demo](https://plyman-gamma.vercel.app/)
 
